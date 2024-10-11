@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-Web Development
+# Web Development
+
 
 
 # 💻 Tech Stack:
